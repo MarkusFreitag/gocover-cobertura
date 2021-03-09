@@ -1,4 +1,4 @@
-module github.com/elliotmr/gocover-cobertura
+module github.com/MarkusFreitag/gocover-cobertura
 
 go 1.14
 
